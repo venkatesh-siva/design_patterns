@@ -1,4 +1,4 @@
-package design_pattern.abstractFactory;
+package design_pattern.factory;
 
 /**
  * 

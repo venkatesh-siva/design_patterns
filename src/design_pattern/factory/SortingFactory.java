@@ -1,4 +1,4 @@
-package design_pattern.abstractFactory;
+package design_pattern.factory;
 
 import design_pattern.sortingAlgorithms.BubbleSort;
 import design_pattern.sortingAlgorithms.InsertionSort;

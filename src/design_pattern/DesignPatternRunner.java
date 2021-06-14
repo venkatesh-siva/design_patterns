@@ -2,8 +2,8 @@ package design_pattern;
 
 import java.util.Scanner;
 
-import design_pattern.abstractFactory.ESortingAlgorithmType;
-import design_pattern.abstractFactory.SortingFactory;
+import design_pattern.factory.ESortingAlgorithmType;
+import design_pattern.factory.SortingFactory;
 import design_pattern.sortingAlgorithms.ISorting;
 import uitls.ArrayUtil;
 
